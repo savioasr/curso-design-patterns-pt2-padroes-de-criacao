@@ -1,0 +1,15 @@
+{
+    "name": "savioasr/patterns2",
+    "authors": [
+        {
+            "name": "Sávio Rodrigues",
+            "email": "savioasrodrigues@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src"
+        }
+    }
+}
